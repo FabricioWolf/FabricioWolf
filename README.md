@@ -1,7 +1,7 @@
 ## Hello Devs! My name is Fabricio Wolf! Welcome to my profile!
 
 - 🔭 Studying Computer Science
-- 🌱 Learning C#
+- 🌱 Learning C# and doing bootcamps
 - 😄 Pronouns: ele/dele - him/his
 - ⚡ Fun fact: I love Pizza
 
