@@ -1,9 +1,9 @@
-## Hello Devs! My name is Fabricio Wolf! Welcome to my profile!
+# <img src="https://emoji.discord.st/emojis/a2986908-d435-429e-b655-ba9292530857.gif" width="30px" /> Hello Devs! My name is Fabricio Wolf! Welcome to my profile!
 
-- 🔭 Studying Computer Science
-- 🌱 Learning C# and doing bootcamps
-- 😄 Pronouns: ele/dele - him/his
-- ⚡ Fun fact: I love Pizza
+- <img src="https://emoji.discord.st/emojis/f5828809-22b6-49a5-959d-9e052a22af30.gif" width="30px" /> Studying Computer Science
+- <img src="https://emoji.discord.st/emojis/d3944b97-d417-4804-bedd-83eb0bb84467.gif" width="30px" /> Learning C# and doing bootcamps
+- <img src="https://emoji.discord.st/emojis/312c2b0a-2e03-4b07-a4c5-3d4bba9fa7ff.png" width="30px" /> Pronouns: ele/dele - him/his
+- <img src="https://emoji.discord.st/emojis/94c4fcaa-5cd5-4dc4-aa02-f124084ceeb5.gif" width="30px" /> Fun fact: I love Pizza
 
 <div align="center">
   <a href="https://github.com/FabricioWolf">
