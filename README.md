@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Fabrício Wolf! Bem vindo ao meu perfil!
 
-- 🔭 Cursando em Ciência da Computação
+- 🔭 Cursando Ciência da Computação
 - 🌱 Estudando C#
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: I love Pizza
