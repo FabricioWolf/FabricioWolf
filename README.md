@@ -1,8 +1,8 @@
-## Olá! Eu me chamo Fabrício Wolf! Bem vindo ao meu perfil!
+## Hello Devs! My name is Fabricio Wolf! Welcome to my profile!
 
-- 🔭 Cursando Ciência da Computação
-- 🌱 Estudando C#
-- 😄 Pronouns: Ele/dele
+- 🔭 Studying Computer Science
+- 🌱 Learning C#
+- 😄 Pronouns: ele/dele - him/his
 - ⚡ Fun fact: I love Pizza
 
 <div align="center">
