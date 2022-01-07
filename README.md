@@ -4,6 +4,7 @@
 - <img src="https://emoji.discord.st/emojis/d3944b97-d417-4804-bedd-83eb0bb84467.gif" width="30px" /> Learning C# and doing bootcamps
 - <img src="https://emoji.discord.st/emojis/312c2b0a-2e03-4b07-a4c5-3d4bba9fa7ff.png" width="30px" /> Pronouns: ele/dele - him/his
 - <img src="https://emoji.discord.st/emojis/94c4fcaa-5cd5-4dc4-aa02-f124084ceeb5.gif" width="30px" /> Fun fact: I love Pizza
+- <img src="https://emoji.discord.st/emojis/20dc7892-b4e0-40d0-b9d4-76c9c9e34102.gif" width="30px" /> Hobbies: play games/exercise myself/movies and series.
 
 <div align="center">
   <a href="https://github.com/FabricioWolf">
